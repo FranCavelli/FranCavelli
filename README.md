@@ -9,6 +9,7 @@
 - Always learning
 
 ### 💪 &nbsp;Working on
+- Freelance (2020-Today)
 - Infocontrol (2023-Today)
 
 ### 🛠 &nbsp;Tech Stack
