@@ -3,7 +3,7 @@
 ### ❗ &nbsp;About me
 - Full stack developer
 - Team work
-- idea maker
+- Idea maker
 - Always learning
 
 ### 💪 &nbsp;Working on
