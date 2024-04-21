@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Cavelli</h1>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### ❗ &nbsp;About me
 - Full stack developer
 - Team work
@@ -8,8 +10,6 @@
 
 ### 💪 &nbsp;Working on
 - Infocontrol (2023-Today)
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
