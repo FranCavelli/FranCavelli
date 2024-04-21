@@ -20,6 +20,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Codeigniter](https://img.shields.io/badge/-codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![Tailwind](https://img.shields.io/badge/-tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![SASS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
+![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
