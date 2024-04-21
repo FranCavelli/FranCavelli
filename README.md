@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco Cavelli</h1>
 
+### ❗ &nbsp;About me
+- Full stack developer
+- Team work
+- idea maker
+- Always learning
+
 ### 💪 &nbsp;Working on
 - Infocontrol (2023-Today)
 
