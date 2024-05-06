@@ -34,7 +34,7 @@
 ![SASS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![THREE.js](https://img.shields.io/badge/-THREEjs-05122A?style=flat&logo=THREEjs)&nbsp;
+![THREE.JS](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=Three.js)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
