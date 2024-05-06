@@ -30,7 +30,7 @@
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/-codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
-![Tailwind](https://img.shields.io/badge/-tailwind-05122A?style=flat&logo=tailwind)&nbsp;
+![Tailwind](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![SASS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
