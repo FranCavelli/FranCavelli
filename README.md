@@ -35,7 +35,7 @@
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![THREE.JS](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=Three.js)&nbsp;
-![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=Three.js)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
