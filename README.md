@@ -27,14 +27,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)&nbsp;
-![Codeigniter](https://img.shields.io/badge/-codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
-![Tailwind](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
-![SASS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
-![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![THREE.JS](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=Three.js)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=Three.js)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
