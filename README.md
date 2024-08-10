@@ -33,6 +33,7 @@
 ![THREE.JS](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=Three.js)&nbsp;
 ![Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro)&nbsp;
 ![NEXT.JS](https://img.shields.io/badge/-NEXT.JS-05122A?style=flat&logo=NEXT.JS)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
