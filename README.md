@@ -42,6 +42,6 @@
 <a href="https://github.com/FranCavelli">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranCavelli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranCavelli&layout=compact&langs_count=8&theme=algolia"/>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=FranCavelli&theme=material-palenight&hide_border=true">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=FranCavelli&theme=algolia&hide_border=true">
 </a>
 </p>
