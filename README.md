@@ -9,7 +9,7 @@
 ### 💪 &nbsp;Working on
 - Infocontrol (2023-Today)
 - Correo Argentino (2025-Today)
-- Alter Estudio (2024-Today)
+- Alter Estudio (2025-Today)
 
 ### 🛠 &nbsp;Tech Stack
 
