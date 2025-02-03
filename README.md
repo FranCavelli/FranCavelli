@@ -6,7 +6,7 @@
 - Idea maker
 - Always learning
 
-### 💪 &nbsp;Working on
+### 💪 &nbsp;Working and experiences
 - Infocontrol (2023-Today)
 - Correo Argentino (2025-Today)
 - Alter Estudio (2025-Today)
