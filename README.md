@@ -7,7 +7,6 @@
 - Always learning
 
 ### 💪 &nbsp;Working on
-- Freelance (2020-Today)
 - Infocontrol (2023-Today)
 - Correo Argentino (2025-Today)
 - Alter Estudio (2024-Today)
